@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="CompoundRunConfigurationType">
+    <toRun name="R1" type="Application" />
+    <toRun name="R2" type="Application" />
+    <toRun name="R3" type="Application" />
+    <toRun name="R4" type="Application" />
+    <toRun name="R5" type="Application" />
+    <toRun name="R6" type="Application" />
+    <toRun name="R7" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

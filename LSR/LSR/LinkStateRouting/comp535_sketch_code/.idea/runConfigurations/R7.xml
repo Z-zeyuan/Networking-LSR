@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="R7" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="19" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="socs.network.Main" />
+    <module name="comp535_sketch_code" />
+    <option name="PROGRAM_PARAMETERS" value="C:\Users\16016\LSR\LinkStateRouting\comp535_sketch_code\conf\router7.conf" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="socs.network.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
